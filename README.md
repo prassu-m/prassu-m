@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working as a Sr. Java Developer | Backend Engineer | Cloud-Native Enthusiast<br>👯 Open to collaborating on scalable microservices, real-time systems, or cloud-native enterprise apps — let’s build robust solutions together!<br>💬 Expert in Java, Spring Boot, REST APIs, Kafka, Docker, Kubernetes, AWS, Azure, CI/CD, Microservices Architecture, SQL/NoSQL, and full-stack development using React or Angular<br>⚡ Fun fact: I thrive on clean code, bulletproof architecture, and solving business problems with elegant backend solutions — and yes, I automate my deployments too!
+🔭 Currently working as a Full Stack Engineer | Developer | Backend Engineer | Cloud-Native Enthusiast<br>👯 Open to collaborating on scalable microservices, real-time systems, or cloud-native enterprise apps — let’s build robust solutions together!<br>💬 Expert in Java, Spring Boot, REST APIs, Kafka, Docker, Kubernetes, AWS, Azure, CI/CD, Microservices Architecture, SQL/NoSQL, and full-stack development using React or Angular<br>⚡ Fun fact: I thrive on clean code, bulletproof architecture, and solving business problems with elegant backend solutions — and yes, I automate my deployments too!
 
 
 ## 🌐 Socials:
