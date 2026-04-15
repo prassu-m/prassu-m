@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF6F00,100:FF3D00&height=150&section=header&text=Prasanna%20M&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F00,100:90CAF9&height=150&section=header&text=Prasanna%20M&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2 align="center">👋 Hello, I'm <span style="color:#4CAF50">Prasanna</span></h2>
